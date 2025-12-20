@@ -28,6 +28,6 @@ Sou estudante do **2º período de Ciência da Computação** na **UNIFG**, esto
 ## 📫 Contato
 - **E-mail principal:** [pabloedgardosanchez06@gmail.com](mailto:pabloedgardosanchez06@gmail.com)
 - **E-mail alternativo:** [kiddracula777@gmail.com](mailto:kiddracula777@gmail.com)
-- **LinkedIn:** [Conecte-se comigo](https://www.linkedin.com/in/pablo-edgardo-56ab95254/)
+- **LinkedIn:** [pablo-edgardo](https://www.linkedin.com/in/pablo-edgardo-56ab95254/)
 
 ---
