@@ -11,7 +11,7 @@ Sou estudante do **3º período de Ciência da Computação** na **UNIFG**, esto
 - **C** - Lógica computacional e fundamentos da programação
 - **Python** - Desenvolvimento backend e automações com selenium 
 - **JavaScript** - Programação web e interatividade
-- 
+
 ## 📚 Atualmente Estudando
 - Ciência da Computação na UNIFG
 - Fundamentos matematicos
