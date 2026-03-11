@@ -3,14 +3,12 @@
 # 👋 Olá, eu sou Pablo Edgardo!
 
 ## 🎓 Sobre Mim
-Sou estudante do **3º período de Ciência da Computação** na **UNIFG**, estou em busca constante de conhecimento e novos desafios na área de desenvolvimento.
+Sou estudante do **3º período de Ciência da Computação** na **UNIFG**
 
 ## 🛠️ Tecnologias & Habilidades
 
 ### 💻 **Linguagens de Programação**
-- **C** - Lógica computacional e fundamentos da programação
-- **Python** - Desenvolvimento backend e automações com selenium 
-- **JavaScript** - Programação web e interatividade
+- C, Python, Javascript
 
 ## 📚 Atualmente Estudando
 - Ciência da Computação na UNIFG
